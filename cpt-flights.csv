@@ -1,0 +1,368 @@
+Dep,Flight,Carrier,Destination,Departure,Status
+Arr,Flight,Carrier,Origin,Arrival,Status
+Dep,Flight,Carrier,Destination,Departure,Status
+Dep,FA* 128,Safair,(JNB) Johannesburg,5:50 AM,Landed
+Dep,FA* 106,Safair,(JNB) Johannesburg,5:50 AM,Scheduled
+Dep,SW 700,Air Namibia,(WDH) Windhoek,5:55 AM,Scheduled
+Dep,KQ 3342$^,Kenya Airways,(WDH) Windhoek,5:55 AM,Scheduled
+Arr,Flight,Carrier,Origin,Arrival,Status
+Dep,Flight,Carrier,Destination,Departure,Status
+Dep,SA 308,South African Airways,(JNB) Johannesburg,6:20 AM,Landed
+Dep,LA 8585$^,LATAM Airlines,(JNB) Johannesburg,6:20 AM,Landed
+Dep,FA* 310,Safair,(HLA) Lanseria,6:20 AM,En Route
+Dep,FA* 140,Safair,(ELS) East London,6:30 AM,Landed
+Dep,FA* 166,Safair,(DUR) Durban,6:45 AM,Landed
+Dep,BA 6428,British Airways,(JNB) Johannesburg,7:30 AM,Landed
+Dep,CX 7312$^,Cathay Pacific,(JNB) Johannesburg,7:30 AM,Landed
+Dep,QR 6331$^,Qatar Airways,(JNB) Johannesburg,7:30 AM,Landed
+Dep,SA 314,South African Airways,(JNB) Johannesburg,7:30 AM,Landed
+Dep,ET 1101$^,Ethiopian Airlines,(JNB) Johannesburg,7:30 AM,Landed
+Dep,HM 5472$^,Air Seychelles,(JNB) Johannesburg,7:30 AM,Landed
+Dep,LA 8586$^,LATAM Airlines,(JNB) Johannesburg,7:30 AM,Landed
+Dep,MN 468,Comair,(HLA) Lanseria,7:50 AM,En Route
+Dep,AF 6655$^,Air France,(HLA) Lanseria,7:50 AM,En Route
+Dep,MN 118,Comair,(JNB) Johannesburg,8:10 AM,"Landed$$$                                        Delayed"
+Dep,KQ 4643$^,Kenya Airways,(JNB) Johannesburg,8:10 AM,"Landed$$$                                        Delayed"
+Dep,SA 8690,South African Airways,(VFA) Victoria Falls,8:30 AM,En Route
+Dep,FA* 201,Safair,(JNB) Johannesburg,8:35 AM,Landed
+Dep,JE 144,Mango,(JNB) Johannesburg,8:45 AM,Landed
+Dep,SA 2012$^,South African Airways,(JNB) Johannesburg,8:45 AM,Landed
+Dep,JE 334,Mango,(DUR) Durban,8:50 AM,Landed
+Dep,SA 2106$^,South African Airways,(DUR) Durban,8:50 AM,Landed
+Arr,Flight,Carrier,Origin,Arrival,Status
+Arr,FA* 200,Safair,(JNB) Johannesburg,8:10 AM,Landed
+Dep,Flight,Carrier,Destination,Departure,Status
+Dep,JE 704,Mango,(HLA) Lanseria,9:20 AM,Scheduled
+Dep,SA 2140$^,South African Airways,(HLA) Lanseria,9:20 AM,Scheduled
+Dep,MN 703,Comair,(DUR) Durban,9:35 AM,Landed
+Dep,AF 6657$^,Air France,(DUR) Durban,9:35 AM,Landed
+Dep,KL 2471$^,KLM,(DUR) Durban,9:35 AM,Landed
+Dep,BA 6410,British Airways,(JNB) Johannesburg,9:50 AM,En Route
+Dep,QR 6335$^,Qatar Airways,(JNB) Johannesburg,9:50 AM,En Route
+Dep,SA 8126,South African Airways,(WDH) Windhoek,10:00 AM,En Route
+Dep,SA 8663,South African Airways,(MQP) Nelspruit,10:00 AM,Landed
+Dep,FA* 291,Safair,(JNB) Johannesburg,10:10 AM,Landed
+Dep,SA 8604,South African Airways,(MUB) Maun,10:20 AM,En Route
+Dep,MN 480,Comair,(HLA) Lanseria,10:20 AM,Landed
+Dep,SA 8651,South African Airways,(SZK) Skukuza,10:35 AM,En Route
+Dep,FA* 312,Safair,(HLA) Lanseria,10:40 AM,Scheduled
+Dep,SQ 479,Singapore Airlines,(JNB) Johannesburg,10:40 AM,Landed
+Dep,NZ 3279$^,Air New Zealand,(JNB) Johannesburg,10:40 AM,Landed
+Dep,OZ 6791$^,Asiana Airlines,(JNB) Johannesburg,10:40 AM,Landed
+Dep,VA 5535$^,Virgin Australia,(JNB) Johannesburg,10:40 AM,Landed
+Dep,SA 8681,South African Airways,(ELS) East London,10:45 AM,Landed
+Dep,SA 8657,South African Airways,(HDS) Hoedspruit,10:50 AM,En Route
+Dep,SA 1721,South African Airways,(WVB) Walvis Bay,10:55 AM,En Route
+Dep,MN 114,Comair,(JNB) Johannesburg,10:55 AM,Landed
+Dep,JE 148,Mango,(JNB) Johannesburg,11:00 AM,Scheduled
+Dep,SA 2020$^,South African Airways,(JNB) Johannesburg,11:00 AM,Scheduled
+Dep,FA* 108,Safair,(JNB) Johannesburg,11:25 AM,Landed
+Dep,SA 326,South African Airways,(JNB) Johannesburg,11:25 AM,Landed
+Dep,OZ 6598$^,Asiana Airlines,(JNB) Johannesburg,11:25 AM,Landed
+Dep,FA* 162,Safair,(DUR) Durban,11:30 AM,Scheduled
+Dep,FA* 130,Safair,(PLZ) Port Elizabeth,11:30 AM,Scheduled
+Dep,BA 6323,British Airways,(PLZ) Port Elizabeth,11:35 AM,Landed
+Dep,SA 8631,South African Airways,(GRJ) George,11:45 AM,Landed
+Dep,MN 112,Comair,(JNB) Johannesburg,11:45 AM,Landed
+Dep,EY 1260$^,Etihad Airways,(JNB) Johannesburg,11:45 AM,Landed
+Dep,FA* 146,Safair,(ELS) East London,11:55 AM,Landed
+Arr,Flight,Carrier,Origin,Arrival,Status
+Arr,SQ 478,Singapore Airlines,(JNB) Johannesburg,9:25 AM,Landed
+Arr,NZ 3278$^,Air New Zealand,(JNB) Johannesburg,9:25 AM,Landed
+Arr,OZ 6792$^,Asiana Airlines,(JNB) Johannesburg,9:25 AM,Landed
+Arr,VA 5538$^,Virgin Australia,(JNB) Johannesburg,9:25 AM,Landed
+Arr,MN 483,Comair,(HLA) Lanseria,9:35 AM,Landed
+Arr,FA* 290,Safair,(JNB) Johannesburg,9:45 AM,En Route
+Arr,BA 59,British Airways,(LHR) London,10:10 AM,Landed
+Arr,AA 6250$^,American Airlines,(LHR) London,10:10 AM,Landed
+Arr,AY 5949$^,Finnair,(LHR) London,10:10 AM,Landed
+Arr,IB 7321$^,Iberia,(LHR) London,10:10 AM,Landed
+Arr,FA* 141,Safair,(ELS) East London,10:15 AM,Landed
+Arr,JE 129,Mango,(JNB) Johannesburg,10:20 AM,Landed
+Arr,SA 2007$^,South African Airways,(JNB) Johannesburg,10:20 AM,Landed
+Arr,MN 117,Comair,(JNB) Johannesburg,10:20 AM,Landed
+Arr,EY 1262$^,Etihad Airways,(JNB) Johannesburg,10:20 AM,Landed
+Arr,KL 2491$^,KLM,(JNB) Johannesburg,10:20 AM,Landed
+Arr,KQ 4646$^,Kenya Airways,(JNB) Johannesburg,10:20 AM,Landed
+Arr,FA* 129,Safair,(JNB) Johannesburg,10:35 AM,Landed
+Arr,SA 313,South African Airways,(JNB) Johannesburg,10:45 AM,Landed
+Arr,NZ 3105$^,Air New Zealand,(JNB) Johannesburg,10:45 AM,Landed
+Arr,OZ 6597$^,Asiana Airlines,(JNB) Johannesburg,10:45 AM,Landed
+Arr,FA* 107,Safair,(JNB) Johannesburg,10:45 AM,En Route
+Arr,BA 6324,British Airways,(PLZ) Port Elizabeth,10:55 AM,Landed
+Arr,QR 6349$^,Qatar Airways,(PLZ) Port Elizabeth,10:55 AM,Landed
+Arr,FA* 311,Safair,(HLA) Lanseria,11:05 AM,Scheduled
+Arr,BA 6302,British Airways,(DUR) Durban,11:10 AM,Landed
+Arr,QR 6347$^,Qatar Airways,(DUR) Durban,11:10 AM,Landed
+Arr,MN 133,Comair,(JNB) Johannesburg,11:10 AM,En Route
+Arr,KQ 4660$^,Kenya Airways,(JNB) Johannesburg,11:10 AM,En Route
+Arr,QR 1369,Qatar Airways,(DOH) Doha,11:10 AM,Landed
+Arr,AT 9787$^,Royal Air Maroc,(DOH) Doha,11:10 AM,Landed
+Arr,AY 6007$^,Finnair,(DOH) Doha,11:10 AM,Landed
+Arr,JL 5589$^,JAL,(DOH) Doha,11:10 AM,Landed
+Arr,UL 3491$^,SriLankan Airlines,(DOH) Doha,11:10 AM,Landed
+Arr,FA* 167,Safair,(DUR) Durban,11:30 AM,Scheduled
+Arr,EK 772,Emirates,(DXB) Dubai,11:35 AM,Landed
+Arr,SA 7155$^,South African Airways,(DXB) Dubai,11:35 AM,Landed
+Arr,FA* 292,Safair,(JNB) Johannesburg,11:35 AM,Landed
+Arr,BA 6413,British Airways,(JNB) Johannesburg,11:35 AM,En Route
+Arr,CX 7315$^,Cathay Pacific,(JNB) Johannesburg,11:35 AM,En Route
+Arr,QR 6366$^,Qatar Airways,(JNB) Johannesburg,11:35 AM,En Route
+Arr,MN 493,Comair,(HLA) Lanseria,11:40 AM,Scheduled
+Arr,JE 131,Mango,(JNB) Johannesburg,11:50 AM,Scheduled
+Arr,JE 703,Mango,(HLA) Lanseria,11:55 AM,Scheduled
+Arr,SA 2139$^,South African Airways,(HLA) Lanseria,11:55 AM,Scheduled
+Dep,Flight,Carrier,Destination,Departure,Status
+Dep,MN 494,Comair,(HLA) Lanseria,12:15 PM,Scheduled
+Dep,BA 6414,British Airways,(JNB) Johannesburg,12:20 PM,Landed
+Dep,QR 6337$^,Qatar Airways,(JNB) Johannesburg,12:20 PM,Landed
+Dep,JE 152,Mango,(JNB) Johannesburg,12:25 PM,Scheduled
+Dep,JE 408,Mango,(BFN) Bloemfontein,12:30 PM,Landed
+Dep,SA 2068$^,South African Airways,(BFN) Bloemfontein,12:30 PM,Landed
+Dep,QR 1370,Qatar Airways,(DOH) Doha,12:40 PM,En Route
+Dep,AT 9788$^,Royal Air Maroc,(DOH) Doha,12:40 PM,En Route
+Dep,AY 6010$^,Finnair,(DOH) Doha,12:40 PM,En Route
+Dep,JL 5588$^,JAL,(DOH) Doha,12:40 PM,En Route
+Dep,UL 3492$^,SriLankan Airlines,(DOH) Doha,12:40 PM,En Route
+Dep,BP 232,Air Botswana,(GBE) Gaborone,1:00 PM,"Scheduled$$$                                        Delayed"
+Dep,EK 773,Emirates,(DXB) Dubai,1:05 PM,En Route
+Dep,SA 7154$^,South African Airways,(DXB) Dubai,1:05 PM,En Route
+Dep,BA 6412,British Airways,(JNB) Johannesburg,1:25 PM,"En Route$$$                                        Delayed"
+Dep,IB 7682$^,Iberia,(JNB) Johannesburg,1:25 PM,"En Route$$$                                        Delayed"
+Dep,QR 6339$^,Qatar Airways,(JNB) Johannesburg,1:25 PM,"En Route$$$                                        Delayed"
+Dep,MN 130,Comair,(JNB) Johannesburg,1:35 PM,En Route
+Dep,AF 6647$^,Air France,(JNB) Johannesburg,1:35 PM,En Route
+Dep,EY 1261$^,Etihad Airways,(JNB) Johannesburg,1:35 PM,En Route
+Dep,KL 2494$^,KLM,(JNB) Johannesburg,1:35 PM,En Route
+Dep,JE 154,Mango,(JNB) Johannesburg,1:45 PM,Scheduled
+Dep,SA 2000$^,South African Airways,(JNB) Johannesburg,1:45 PM,Scheduled
+Dep,SW 714,Air Namibia,(WVB) Walvis Bay,1:45 PM,En Route
+Dep,FA* 213,Safair,(JNB) Johannesburg,2:10 PM,En Route
+Dep,SA 8639,South African Airways,(GRJ) George,2:15 PM,Scheduled
+Dep,JE 712,Mango,(HLA) Lanseria,2:30 PM,"Scheduled$$$                                        Delayed"
+Dep,SA 2148$^,South African Airways,(HLA) Lanseria,2:30 PM,"Scheduled$$$                                        Delayed"
+Dep,ET 846,Ethiopian Airlines,(ADD) Addis Ababa,2:45 PM,Scheduled
+Dep,AI 7584$^,Air India,(ADD) Addis Ababa,2:45 PM,Scheduled
+Dep,SA 7191$^,South African Airways,(ADD) Addis Ababa,2:45 PM,Scheduled
+Dep,SQ 6068$^,Singapore Airlines,(ADD) Addis Ababa,2:45 PM,Scheduled
+Dep,MN 476,Comair,(HLA) Lanseria,2:55 PM,Scheduled
+Arr,Flight,Carrier,Origin,Arrival,Status
+Arr,SA 323,South African Airways,(JNB) Johannesburg,12:05 PM,Landed
+Arr,B6 5205$^,JetBlue Airways,(JNB) Johannesburg,12:05 PM,Landed
+Arr,MS 9442$^,EgyptAir,(JNB) Johannesburg,12:05 PM,Landed
+Arr,SK 9374$^,SAS,(JNB) Johannesburg,12:05 PM,Landed
+Arr,BP 233,Air Botswana,(GBE) Gaborone,12:15 PM,Scheduled
+Arr,JE 337,Mango,(DUR) Durban,12:40 PM,Scheduled
+Arr,SA 2111$^,South African Airways,(DUR) Durban,12:40 PM,Scheduled
+Arr,BA 6409,British Airways,(JNB) Johannesburg,12:45 PM,En Route
+Arr,CX 7313$^,Cathay Pacific,(JNB) Johannesburg,12:45 PM,En Route
+Arr,QR 6328$^,Qatar Airways,(JNB) Johannesburg,12:45 PM,En Route
+Arr,MN 135,Comair,(JNB) Johannesburg,1:00 PM,"Landed$$$                                        Delayed"
+Arr,SW 713,Air Namibia,(WVB) Walvis Bay,1:05 PM,Scheduled
+Arr,JE 135,Mango,(JNB) Johannesburg,1:35 PM,Scheduled
+Arr,SA 2001$^,South African Airways,(JNB) Johannesburg,1:35 PM,Scheduled
+Arr,DT 579,TAAG,(LAD) Luanda,1:40 PM,Landed
+Arr,SA 7040$^,South African Airways,(LAD) Luanda,1:40 PM,Landed
+Arr,ET 847,Ethiopian Airlines,(ADD) Addis Ababa,1:45 PM,Landed
+Arr,AI 7585$^,Air India,(ADD) Addis Ababa,1:45 PM,Landed
+Arr,SA 7190$^,South African Airways,(ADD) Addis Ababa,1:45 PM,Landed
+Arr,SQ 6069$^,Singapore Airlines,(ADD) Addis Ababa,1:45 PM,Landed
+Arr,FA* 212,Safair,(JNB) Johannesburg,1:45 PM,Landed
+Arr,SA 8632,South African Airways,(GRJ) George,1:50 PM,Landed
+Arr,SA 8652,South African Airways,(SZK) Skukuza,1:55 PM,En Route
+Arr,SA 8682,South African Airways,(ELS) East London,2:15 PM,En Route
+Arr,MN 704,Comair,(DUR) Durban,2:15 PM,Landed
+Arr,AF 6654$^,Air France,(DUR) Durban,2:15 PM,Landed
+Arr,JE 339,Mango,(DUR) Durban,2:25 PM,En Route
+Arr,SA 2115$^,South African Airways,(DUR) Durban,2:25 PM,En Route
+Arr,JE 139,Mango,(JNB) Johannesburg,2:35 PM,"En Route$$$                                        Delayed"
+Arr,FA* 131,Safair,(PLZ) Port Elizabeth,2:40 PM,Scheduled
+Arr,SA 8691,South African Airways,(VFA) Victoria Falls,2:40 PM,En Route
+Arr,BA 6417,British Airways,(JNB) Johannesburg,2:50 PM,En Route
+Arr,QR 6330$^,Qatar Airways,(JNB) Johannesburg,2:50 PM,En Route
+Dep,Flight,Carrier,Destination,Departure,Status
+Dep,SA 346,South African Airways,(JNB) Johannesburg,3:05 PM,Scheduled
+Dep,B6 5204$^,JetBlue Airways,(JNB) Johannesburg,3:05 PM,Scheduled
+Dep,LH 9541$^,Lufthansa,(JNB) Johannesburg,3:05 PM,Scheduled
+Dep,LX 4143$^,SWISS,(JNB) Johannesburg,3:05 PM,Scheduled
+Dep,UA 7234$^,United Airlines,(JNB) Johannesburg,3:05 PM,Scheduled
+Dep,JE 156,Mango,(JNB) Johannesburg,3:10 PM,Scheduled
+Dep,FA* 122,Safair,(JNB) Johannesburg,3:20 PM,Scheduled
+Dep,SA 8675,South African Airways,(PLZ) Port Elizabeth,3:25 PM,Scheduled
+Dep,SA 352,South African Airways,(JNB) Johannesburg,3:50 PM,Scheduled
+Dep,AC 6857$^,Air Canada,(JNB) Johannesburg,3:50 PM,Scheduled
+Dep,LX 4135$^,SWISS,(JNB) Johannesburg,3:50 PM,Scheduled
+Dep,UA 7244$^,United Airlines,(JNB) Johannesburg,3:50 PM,Scheduled
+Dep,WB 111,RwandAir,(HRE) Harare,4:00 PM,Scheduled
+Dep,BA 6418,British Airways,(JNB) Johannesburg,4:00 PM,Scheduled
+Dep,IB 7684$^,Iberia,(JNB) Johannesburg,4:00 PM,Scheduled
+Dep,QR 6341$^,Qatar Airways,(JNB) Johannesburg,4:00 PM,Scheduled
+Dep,DT 580,TAAG,(LAD) Luanda,4:20 PM,Scheduled
+Dep,SA 7039$^,South African Airways,(LAD) Luanda,4:20 PM,Scheduled
+Dep,SA 8617,South African Airways,(KIM) Kimberley,4:25 PM,Scheduled
+Dep,SA 8665,South African Airways,(MQP) Nelspruit,4:30 PM,Scheduled
+Dep,SA 1057,South African Airways,(BFN) Bloemfontein,4:30 PM,Scheduled
+Dep,MN 464,Comair,(HLA) Lanseria,4:30 PM,Scheduled
+Dep,FA* 136,Safair,(PLZ) Port Elizabeth,4:35 PM,Scheduled
+Dep,SA 8641,South African Airways,(UTN) Upington,4:35 PM,Scheduled
+Dep,FA* 120,Safair,(JNB) Johannesburg,4:40 PM,Scheduled
+Dep,SA 8635,South African Airways,(GRJ) George,4:50 PM,Scheduled
+Dep,SA 354,South African Airways,(JNB) Johannesburg,4:55 PM,Scheduled
+Dep,B6 5206$^,JetBlue Airways,(JNB) Johannesburg,4:55 PM,Scheduled
+Dep,LX 4130$^,SWISS,(JNB) Johannesburg,4:55 PM,Scheduled
+Dep,MS 9553$^,EgyptAir,(JNB) Johannesburg,4:55 PM,Scheduled
+Dep,BA 6422,British Airways,(JNB) Johannesburg,5:00 PM,Scheduled
+Dep,IB 7793$^,Iberia,(JNB) Johannesburg,5:00 PM,Scheduled
+Dep,QR 6343$^,Qatar Airways,(JNB) Johannesburg,5:00 PM,Scheduled
+Dep,FA* 297,Safair,(JNB) Johannesburg,5:00 PM,Scheduled
+Dep,TK 45,Turkish Airlines,(ISL) Istanbul,5:05 PM,Scheduled
+Dep,JE 162,Mango,(JNB) Johannesburg,5:05 PM,Scheduled
+Dep,SA 2006$^,South African Airways,(JNB) Johannesburg,5:05 PM,Scheduled
+Dep,MN 116,Comair,(JNB) Johannesburg,5:10 PM,Scheduled
+Dep,KQ 4647$^,Kenya Airways,(JNB) Johannesburg,5:10 PM,Scheduled
+Dep,BA 6313,British Airways,(DUR) Durban,5:30 PM,Scheduled
+Dep,QR 6350$^,Qatar Airways,(DUR) Durban,5:30 PM,Scheduled
+Dep,FA* 102,Safair,(JNB) Johannesburg,5:35 PM,Scheduled
+Dep,JE 716,Mango,(HLA) Lanseria,5:55 PM,Scheduled
+Dep,SA 2146$^,South African Airways,(HLA) Lanseria,5:55 PM,Scheduled
+Arr,Flight,Carrier,Origin,Arrival,Status
+Arr,WB 110,RwandAir,(HRE) Harare,3:05 PM,Scheduled
+Arr,SA 337,South African Airways,(JNB) Johannesburg,3:10 PM,En Route
+Arr,AC 6858$^,Air Canada,(JNB) Johannesburg,3:10 PM,En Route
+Arr,LA 8961$^,LATAM Airlines,(JNB) Johannesburg,3:10 PM,En Route
+Arr,LH 9534$^,Lufthansa,(JNB) Johannesburg,3:10 PM,En Route
+Arr,LX 4142$^,SWISS,(JNB) Johannesburg,3:10 PM,En Route
+Arr,MS 9552$^,EgyptAir,(JNB) Johannesburg,3:10 PM,En Route
+Arr,SK 9372$^,SAS,(JNB) Johannesburg,3:10 PM,En Route
+Arr,SA 1722,South African Airways,(WVB) Walvis Bay,3:35 PM,En Route
+Arr,FA* 313,Safair,(HLA) Lanseria,3:35 PM,Scheduled
+Arr,FA* 147,Safair,(ELS) East London,3:40 PM,Scheduled
+Arr,SA 8664,South African Airways,(MQP) Nelspruit,3:45 PM,En Route
+Arr,MN 471,Comair,(HLA) Lanseria,3:50 PM,En Route
+Arr,SA 343,South African Airways,(JNB) Johannesburg,3:55 PM,En Route
+Arr,LA 8962$^,LATAM Airlines,(JNB) Johannesburg,3:55 PM,En Route
+Arr,LX 4131$^,SWISS,(JNB) Johannesburg,3:55 PM,En Route
+Arr,SA 8127,South African Airways,(WDH) Windhoek,4:05 PM,En Route
+Arr,BA 6419,British Airways,(JNB) Johannesburg,4:10 PM,Scheduled
+Arr,IB 7685$^,Iberia,(JNB) Johannesburg,4:10 PM,Scheduled
+Arr,QR 6332$^,Qatar Airways,(JNB) Johannesburg,4:10 PM,Scheduled
+Arr,FA* 109,Safair,(JNB) Johannesburg,4:10 PM,Scheduled
+Arr,FA* 163,Safair,(DUR) Durban,4:15 PM,Scheduled
+Arr,SA 8605,South African Airways,(MUB) Maun,4:20 PM,Scheduled
+Arr,SA 8638,South African Airways,(GRJ) George,4:20 PM,Scheduled
+Arr,SA 8658,South African Airways,(HDS) Hoedspruit,4:25 PM,En Route
+Arr,FA* 296,Safair,(JNB) Johannesburg,4:25 PM,Scheduled
+Arr,JE 413,Mango,(BFN) Bloemfontein,4:25 PM,Scheduled
+Arr,SA 2069$^,South African Airways,(BFN) Bloemfontein,4:25 PM,Scheduled
+Arr,MN 127,Comair,(JNB) Johannesburg,4:35 PM,Scheduled
+Arr,AF 6646$^,Air France,(JNB) Johannesburg,4:35 PM,Scheduled
+Arr,KQ 4636$^,Kenya Airways,(JNB) Johannesburg,4:35 PM,Scheduled
+Arr,EK 770,Emirates,(DXB) Dubai,4:45 PM,En Route
+Arr,SA 7157$^,South African Airways,(DXB) Dubai,4:45 PM,En Route
+Arr,BA 6312,British Airways,(DUR) Durban,4:50 PM,Scheduled
+Arr,BA 6425,British Airways,(JNB) Johannesburg,5:10 PM,Scheduled
+Arr,IB 7790$^,Iberia,(JNB) Johannesburg,5:10 PM,Scheduled
+Arr,QR 6334$^,Qatar Airways,(JNB) Johannesburg,5:10 PM,Scheduled
+Arr,JE 147,Mango,(JNB) Johannesburg,5:25 PM,Scheduled
+Arr,JE 709,Mango,(HLA) Lanseria,5:25 PM,Scheduled
+Arr,SA 2147$^,South African Airways,(HLA) Lanseria,5:25 PM,Scheduled
+Dep,Flight,Carrier,Destination,Departure,Status
+Dep,EK 771,Emirates,(DXB) Dubai,6:20 PM,Scheduled
+Dep,SA 7156$^,South African Airways,(DXB) Dubai,6:20 PM,Scheduled
+Dep,SA 366,South African Airways,(JNB) Johannesburg,6:50 PM,Scheduled
+Dep,JE 168,Mango,(JNB) Johannesburg,7:00 PM,Scheduled
+Dep,BA 6438,British Airways,(JNB) Johannesburg,7:00 PM,Scheduled
+Dep,QR 6363$^,Qatar Airways,(JNB) Johannesburg,7:00 PM,Scheduled
+Dep,MN 488,Comair,(HLA) Lanseria,7:00 PM,Scheduled
+Dep,BA 58,British Airways,(LHR) London,7:30 PM,Scheduled
+Dep,AA 6448$^,American Airlines,(LHR) London,7:30 PM,Scheduled
+Dep,AY 5948$^,Finnair,(LHR) London,7:30 PM,Scheduled
+Dep,IB 7320$^,Iberia,(LHR) London,7:30 PM,Scheduled
+Dep,FA* 215,Safair,(JNB) Johannesburg,7:50 PM,Scheduled
+Dep,SA 372,South African Airways,(JNB) Johannesburg,7:55 PM,Scheduled
+Dep,JE 364,Mango,(DUR) Durban,7:55 PM,Scheduled
+Dep,SA 2110$^,South African Airways,(DUR) Durban,7:55 PM,Scheduled
+Dep,JE 174,Mango,(JNB) Johannesburg,7:55 PM,Scheduled
+Dep,SA 2030$^,South African Airways,(JNB) Johannesburg,7:55 PM,Scheduled
+Dep,FA* 461,Safair,(DUR) Durban,8:05 PM,Scheduled
+Dep,MN 132,Comair,(JNB) Johannesburg,8:50 PM,Scheduled
+Dep,KQ 4673$^,Kenya Airways,(JNB) Johannesburg,8:50 PM,Scheduled
+Arr,Flight,Carrier,Origin,Arrival,Status
+Arr,SA 353,South African Airways,(JNB) Johannesburg,6:10 PM,Scheduled
+Arr,HM 5483$^,Air Seychelles,(JNB) Johannesburg,6:10 PM,Scheduled
+Arr,LA 8582$^,LATAM Airlines,(JNB) Johannesburg,6:10 PM,Scheduled
+Arr,BA 6427,British Airways,(JNB) Johannesburg,6:10 PM,Scheduled
+Arr,QR 6336$^,Qatar Airways,(JNB) Johannesburg,6:10 PM,Scheduled
+Arr,MN 461,Comair,(HLA) Lanseria,6:15 PM,Scheduled
+Arr,JE 149,Mango,(JNB) Johannesburg,6:25 PM,Scheduled
+Arr,SA 8676,South African Airways,(PLZ) Port Elizabeth,6:30 PM,Scheduled
+Arr,SW 709,Air Namibia,(WDH) Windhoek,6:30 PM,Scheduled
+Arr,KQ 3341$^,Kenya Airways,(WDH) Windhoek,6:30 PM,Scheduled
+Arr,BA 6429,British Airways,(JNB) Johannesburg,7:10 PM,Scheduled
+Arr,QR 6338$^,Qatar Airways,(JNB) Johannesburg,7:10 PM,Scheduled
+Arr,JE 715,Mango,(HLA) Lanseria,7:15 PM,Scheduled
+Arr,SA 2145$^,South African Airways,(HLA) Lanseria,7:15 PM,Scheduled
+Arr,SA 357,South African Airways,(JNB) Johannesburg,7:15 PM,Scheduled
+Arr,HM 5493$^,Air Seychelles,(JNB) Johannesburg,7:15 PM,Scheduled
+Arr,LA 8595$^,LATAM Airlines,(JNB) Johannesburg,7:15 PM,Scheduled
+Arr,SA 8636,South African Airways,(GRJ) George,7:15 PM,Scheduled
+Arr,FA* 214,Safair,(JNB) Johannesburg,7:15 PM,Scheduled
+Arr,JE 369,Mango,(DUR) Durban,7:20 PM,Scheduled
+Arr,SA 2123$^,South African Airways,(DUR) Durban,7:20 PM,Scheduled
+Arr,JE 151,Mango,(JNB) Johannesburg,7:20 PM,Scheduled
+Arr,SA 2021$^,South African Airways,(JNB) Johannesburg,7:20 PM,Scheduled
+Arr,FA* 460,Safair,(DUR) Durban,7:25 PM,Scheduled
+Arr,KQ 784,Kenya Airways,(NBO) Nairobi,7:30 PM,Scheduled
+Arr,SA 8642,South African Airways,(UTN) Upington,7:35 PM,Scheduled
+Arr,FA* 137,Safair,(PLZ) Port Elizabeth,7:45 PM,Scheduled
+Arr,SA 8618,South African Airways,(KIM) Kimberley,7:55 PM,Scheduled
+Arr,BA 6431,British Airways,(JNB) Johannesburg,8:10 PM,Scheduled
+Arr,QR 6340$^,Qatar Airways,(JNB) Johannesburg,8:10 PM,Scheduled
+Arr,SA 359,South African Airways,(JNB) Johannesburg,8:10 PM,Scheduled
+Arr,MN 131,Comair,(JNB) Johannesburg,8:15 PM,Scheduled
+Arr,EY 1269$^,Etihad Airways,(JNB) Johannesburg,8:15 PM,Scheduled
+Arr,KQ 4642$^,Kenya Airways,(JNB) Johannesburg,8:15 PM,Scheduled
+Arr,FA* 123,Safair,(JNB) Johannesburg,8:15 PM,Scheduled
+Arr,SA 1058,South African Airways,(BFN) Bloemfontein,8:20 PM,Scheduled
+Arr,MK 843,Air Mauritius,(MRU) Mauritius,8:20 PM,Scheduled
+Arr,AF 7968$^,Air France,(MRU) Mauritius,8:20 PM,Scheduled
+Arr,SA 363,South African Airways,(JNB) Johannesburg,8:55 PM,Scheduled
+Dep,Flight,Carrier,Destination,Departure,Status
+Dep,MN 490,Comair,(HLA) Lanseria,9:50 PM,Scheduled
+Dep,MK 844,Air Mauritius,(MRU) Mauritius,10:05 PM,Scheduled
+Dep,AF 7969$^,Air France,(MRU) Mauritius,10:05 PM,Scheduled
+Dep,KQ 785,Kenya Airways,(NBO) Nairobi,11:00 PM,Scheduled
+Dep,KL 598,KLM,(AMS) Amsterdam,11:05 PM,Scheduled
+Dep,AF 8362$^,Air France,(AMS) Amsterdam,11:05 PM,Scheduled
+Dep,DL 9436$^,Delta Air Lines,(AMS) Amsterdam,11:05 PM,Scheduled
+Dep,MF 9922$^,Xiamen Airlines,(AMS) Amsterdam,11:05 PM,Scheduled
+Dep,AF 871,Air France,(CDG) Paris,11:50 PM,Scheduled
+Dep,DL 8275$^,Delta Air Lines,(CDG) Paris,11:50 PM,Scheduled
+Dep,KL 2149$^,KLM,(CDG) Paris,11:50 PM,Scheduled
+Arr,Flight,Carrier,Origin,Arrival,Status
+Arr,MN 455,Comair,(HLA) Lanseria,9:05 PM,Scheduled
+Arr,BA 6407,British Airways,(JNB) Johannesburg,9:20 PM,Scheduled
+Arr,QR 6342$^,Qatar Airways,(JNB) Johannesburg,9:20 PM,Scheduled
+Arr,KL 597,KLM,(AMS) Amsterdam,9:20 PM,En Route
+Arr,AF 8367$^,Air France,(AMS) Amsterdam,9:20 PM,En Route
+Arr,DL 9599$^,Delta Air Lines,(AMS) Amsterdam,9:20 PM,En Route
+Arr,MF 9921$^,Xiamen Airlines,(AMS) Amsterdam,9:20 PM,En Route
+Arr,FA* 121,Safair,(JNB) Johannesburg,9:30 PM,Scheduled
+Arr,SA 367,South African Airways,(JNB) Johannesburg,9:40 PM,Scheduled
+Arr,B6 5207$^,JetBlue Airways,(JNB) Johannesburg,9:40 PM,Scheduled
+Arr,UA 7235$^,United Airlines,(JNB) Johannesburg,9:40 PM,Scheduled
+Arr,JE 361,Mango,(DUR) Durban,9:40 PM,Scheduled
+Arr,JE 161,Mango,(JNB) Johannesburg,9:45 PM,Scheduled
+Arr,SA 2023$^,South African Airways,(JNB) Johannesburg,9:45 PM,Scheduled
+Arr,AF 864,Air France,(CDG) Paris,9:50 PM,En Route
+Arr,DL 8273$^,Delta Air Lines,(CDG) Paris,9:50 PM,En Route
+Arr,KL 2150$^,KLM,(CDG) Paris,9:50 PM,En Route
+Arr,MN 137,Comair,(JNB) Johannesburg,9:55 PM,Scheduled
+Arr,EY 1263$^,Etihad Airways,(JNB) Johannesburg,9:55 PM,Scheduled
+Arr,BA 6403,British Airways,(JNB) Johannesburg,10:00 PM,Scheduled
+Arr,QR 6344$^,Qatar Airways,(JNB) Johannesburg,10:00 PM,Scheduled
+Arr,FA* 103,Safair,(JNB) Johannesburg,10:30 PM,Scheduled
+Arr,MN 473,Comair,(HLA) Lanseria,10:40 PM,Scheduled
+Arr,AF 6652$^,Air France,(HLA) Lanseria,10:40 PM,Scheduled
+Arr,FA* 319,Safair,(HLA) Lanseria,10:45 PM,Scheduled
+Arr,SA 377,South African Airways,(JNB) Johannesburg,11:25 PM,Scheduled
